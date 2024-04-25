@@ -1,2 +1,2 @@
 # boezjeern
-Sportclub Boezjeern in Eeklo
+[Testpagina](https://cdjeeklo.github.io/boezjeern/) voor Sportclub Boezjeern in Eeklo
